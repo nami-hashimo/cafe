@@ -166,12 +166,7 @@ nav li a:hover {
 }
 
 
-/*
-.btn::before 右の赤線
-.btn::after 下の赤線
-.btn span::before 左の赤線
-.btn span::after 上の赤線
-*/
+
 #about .btn::before,
 #about .btn::after {
   position: absolute;
